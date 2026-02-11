@@ -1,7 +1,7 @@
 
 # 💳 Credit Card Fraud Detection using Machine Learning
 
-This project is part of the **CODSOFT Data Science Internship** and focuses on building a **machine learning classification model** to detect fraudulent credit card transactions.  
+This project focuses on building a **machine learning classification model** to detect fraudulent credit card transactions.  
 The project addresses a real-world problem where **fraud cases are extremely rare**, making accurate detection both challenging and critical.
 
 ---
